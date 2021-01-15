@@ -1,0 +1,133 @@
+    Question Bank Report      
+-------------------------------
+
+Question Category :: GenKnowlg
+Question Id       :: 10001
+Question Text     :: Who was our first prime minister        
+Answer Option 1   :: Liaqat Ali Khan                                   
+Answer Option 2   :: Khawja Nazim ud din                               
+Answer Option 3   :: Mohammad Ali Bogra                                
+Answer Option 4   :: Hussain Shaheed Suharwardi                        
+Correct Option    :: 1
+Allotted Marks    :: 10
+
+Question Category :: GenKnowlg
+Question Id       :: 10002
+Question Text     :: What is the capital of Turkey           
+Answer Option 1   :: Istanbul                                          
+Answer Option 2   :: Ankra                                             
+Answer Option 3   :: kashghar                                          
+Answer Option 4   :: Konya                                             
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Islamic  
+Question Id       :: 10003
+Question Text     :: Who was the First Muslim Ever?          
+Answer Option 1   :: HAZRAT UMAR R.A                                   
+Answer Option 2   :: HAZRAT ADAM A.S                                   
+Answer Option 3   :: HAZRAT ABU BAKAR R.A                              
+Answer Option 4   :: HAZRAT ALI R.A                                    
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Genknowlg
+Question Id       :: 10004
+Question Text     :: what is full form of PM?                
+Answer Option 1   :: Pakistan's memorial                               
+Answer Option 2   :: passing Marks                                     
+Answer Option 3   :: Prime Minister                                    
+Answer Option 4   :: Personal Menager                                  
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10005
+Question Text     :: 2010 Commonwealth game held in          
+Answer Option 1   :: Pakistan                                          
+Answer Option 2   :: India                                             
+Answer Option 3   :: Africa                                            
+Answer Option 4   :: China                                             
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10006
+Question Text     :: The term Googly is associated with      
+Answer Option 1   :: Hockey                                            
+Answer Option 2   :: Cricket                                           
+Answer Option 3   :: Badminton                                         
+Answer Option 4   :: Football                                          
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10007
+Question Text     :: Muhammad Amir is a player of            
+Answer Option 1   :: Football                                          
+Answer Option 2   :: Cricket                                           
+Answer Option 3   :: Chess                                             
+Answer Option 4   :: Ludo                                              
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10008
+Question Text     :: What is the national sport of Pakistan? 
+Answer Option 1   :: Cricket                                           
+Answer Option 2   :: Hockey                                            
+Answer Option 3   :: Foot ball                                         
+Answer Option 4   :: Badminton                                         
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Polity   
+Question Id       :: 10009
+Question Text     :: First Governer general of Pakistan is   
+Answer Option 1   :: Liaqat Ali Khan                                   
+Answer Option 2   :: Muhammad khan Junejo                              
+Answer Option 3   :: Quid e Azam                                       
+Answer Option 4   :: Gulam Ishaaq khan                                 
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Islamic  
+Question Id       :: 10011
+Question Text     :: Who is the Fivth Caliph of islam        
+Answer Option 1   :: HAZRAT IMAM HASSAN R.A                            
+Answer Option 2   :: HAZRAT UMAR E SANI R.A                            
+Answer Option 3   :: HAZRAT UMAR FAROO R.A                             
+Answer Option 4   :: HAZRAT ABDULLAH R.A                               
+Correct Option    :: 1
+Allotted Marks    :: 10
+
+Question Category :: polity   
+Question Id       :: 10012
+Question Text     :: who is our current home minister?       
+Answer Option 1   :: Murad Ras                                         
+Answer Option 2   :: Murad Saeed                                       
+Answer Option 3   :: Shafat mehmood                                    
+Answer Option 4   :: Shaikh Rasheed                                    
+Correct Option    :: 4
+Allotted Marks    :: 10
+
+Question Category :: sports   
+Question Id       :: 10014
+Question Text     :: Who is Shahid Afride                    
+Answer Option 1   :: Football player                                   
+Answer Option 2   :: Hockey player                                     
+Answer Option 3   :: crickter                                          
+Answer Option 4   :: Tennis player                                     
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Genknowlg
+Question Id       :: 10015
+Question Text     :: What is ment by dm?                     
+Answer Option 1   :: Direct message                                    
+Answer Option 2   :: diverse mangement                                 
+Answer Option 3   :: dite manager                                      
+Answer Option 4   :: direction manager                                 
+Correct Option    :: 1
+Allotted Marks    :: 10
+
